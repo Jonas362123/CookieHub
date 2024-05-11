@@ -26,3 +26,17 @@ C:\Users\teemu\OneDrive\Tiedostot\Visual Studio 2017\Projects\UniversalGameLaunc
 C:\Users\teemu\OneDrive\Tiedostot\Visual Studio 2017\Projects\UniversalGameLauncher\GameLauncherRepository\UniversalGameLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.csproj.CopyComplete
 C:\Users\teemu\OneDrive\Tiedostot\Visual Studio 2017\Projects\UniversalGameLauncher\GameLauncherRepository\UniversalGameLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.exe
 C:\Users\teemu\OneDrive\Tiedostot\Visual Studio 2017\Projects\UniversalGameLauncher\GameLauncherRepository\UniversalGameLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.pdb
+D:\Projects\UniversalGameLauncher\UniversalGameLauncher\bin\Release\UniversalGameLauncher.exe.config
+D:\Projects\UniversalGameLauncher\UniversalGameLauncher\bin\Release\UniversalGameLauncher.exe
+D:\Projects\UniversalGameLauncher\UniversalGameLauncher\bin\Release\UniversalGameLauncher.pdb
+D:\Projects\UniversalGameLauncher\UniversalGameLauncher\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\Projects\UniversalGameLauncher\UniversalGameLauncher\bin\Release\ICSharpCode.SharpZipLib.pdb
+D:\Projects\UniversalGameLauncher\UniversalGameLauncher\bin\Release\ICSharpCode.SharpZipLib.xml
+D:\Projects\UniversalGameLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.csproj.AssemblyReference.cache
+D:\Projects\UniversalGameLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.Application.resources
+D:\Projects\UniversalGameLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.Properties.Resources.resources
+D:\Projects\UniversalGameLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.csproj.GenerateResource.cache
+D:\Projects\UniversalGameLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.csproj.CoreCompileInputs.cache
+D:\Projects\UniversalGameLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.csproj.CopyComplete
+D:\Projects\UniversalGameLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.exe
+D:\Projects\UniversalGameLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.pdb

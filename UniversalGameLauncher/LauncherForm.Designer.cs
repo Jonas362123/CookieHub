@@ -91,6 +91,7 @@
             this.currentVersionLabel.Size = new System.Drawing.Size(40, 13);
             this.currentVersionLabel.TabIndex = 3;
             this.currentVersionLabel.Text = "1.0.0.0";
+            this.currentVersionLabel.Click += new System.EventHandler(this.currentVersionLabel_Click);
             // 
             // navbarButton2
             // 
@@ -140,7 +141,7 @@
             this.minimizePictureBox.BackColor = System.Drawing.Color.Transparent;
             this.minimizePictureBox.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.minimizePictureBox.Image = global::UniversalGameLauncher.Properties.Resources.minimize_12x12;
-            this.minimizePictureBox.Location = new System.Drawing.Point(955, 3);
+            this.minimizePictureBox.Location = new System.Drawing.Point(954, 3);
             this.minimizePictureBox.Name = "minimizePictureBox";
             this.minimizePictureBox.Size = new System.Drawing.Size(25, 25);
             this.minimizePictureBox.TabIndex = 1;
@@ -235,9 +236,9 @@
             // 
             this.clientReadyLabel.BackColor = System.Drawing.Color.Transparent;
             this.clientReadyLabel.Font = new System.Drawing.Font("Segoe UI", 15.25F);
-            this.clientReadyLabel.Location = new System.Drawing.Point(499, 581);
+            this.clientReadyLabel.Location = new System.Drawing.Point(485, 571);
             this.clientReadyLabel.Name = "clientReadyLabel";
-            this.clientReadyLabel.Size = new System.Drawing.Size(320, 46);
+            this.clientReadyLabel.Size = new System.Drawing.Size(334, 63);
             this.clientReadyLabel.TabIndex = 4;
             this.clientReadyLabel.Text = "Your client is up to date!";
             this.clientReadyLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
